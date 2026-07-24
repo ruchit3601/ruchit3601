@@ -5,7 +5,7 @@ Full Stack Developer based in Ontario, Canada 🇨🇦
 - 🔭 Currently working on **AI-integrated tools** and writing my own **Playwright E2E test suites**
 - 🌱 Currently deepening my **Spring Boot** and **system design** knowledge
 - 👨‍💻 All of my projects are available at [portfolio](https://ruchit-portfolio-website.netlify.app/)
-- 💬 Ask me about **React, Node.js, Java Spring Boot, REST APIs, Playwright, SQL/NoSQL databases**
+- 💬 Ask me about **React, Node.js, Java Spring Boot, REST APIs, Playwright, Cypress, SQL/NoSQL databases**
 - 📫 How to reach me: **ruchitchudasama123@gmail.com**
 - ⚡ Fun fact: I write my own tests before most people think to ask if I test at all
 

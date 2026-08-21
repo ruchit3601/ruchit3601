@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Ruchit Chudasama
-QA Automation Engineer based in Ontario, Canada 🇨🇦
+QA Automation Engineer based in Canada
 
 - 🔭 Currently building **Playwright E2E test suites** and exploring **AI-assisted test automation**
 - 🌱 Currently deepening my **Robot Framework** and **API test automation** knowledge
